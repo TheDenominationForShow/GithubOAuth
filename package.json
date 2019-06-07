@@ -1,0 +1,26 @@
+{
+  "name": "githuboauth",
+  "version": "1.0.0",
+  "description": "使用github的认证，进行账户登录管理",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheDenominationForShow/GithubOAuth.git"
+  },
+  "keywords": [
+    "github",
+    "oauth"
+  ],
+  "author": "JZFamily",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheDenominationForShow/GithubOAuth/issues"
+  },
+  "homepage": "https://github.com/TheDenominationForShow/GithubOAuth#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
